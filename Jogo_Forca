@@ -51,7 +51,7 @@ FORCAIMG = ['''
       |
 =========''']
 
-palavras = 'formiga babuino encefalo elefante girafa hamburger chocolate giroscopio'.split()
+palavras = 'programação instituto redes araquari café férias estudante código linguagem'.split()
 
 
 def main():
